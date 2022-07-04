@@ -1,0 +1,4 @@
+-Compiles the "Advice For Young People" from Lex Fridman
+	- This advice is all the advice from the worlds moste elite professiionals
+-Presents them in a website collage (maybe learn React!)
+	- you can hover on the advice to see who gave it, the full video, a bigger summary of the advice (using text summaries) 
